@@ -1,0 +1,16 @@
+/* @import "tailwindcss/preflight";  replaces @tailwind base */
+@import "tailwindcss";            /* replaces @tailwind components + utilities */
+
+
+.text-2xs{
+    font-size: 0.625rem; /* 10px */
+    line-height: 0.75rem; /* 12px */
+}
+
+
+body {
+  font-family: 'Hanken Grotesk', sans-serif;
+}
+
+
+
